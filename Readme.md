@@ -25,7 +25,7 @@ Key Insights
 files
 - Notebook: Data analysis and code
 - PowerPoint: Executive presentation
-- Excel file of Anaysis
+- Excel file for Anaysis: To verify the Python Analytical results 
 - CSV files: Raw Data & Processed outputs
 
 Authors:
